@@ -29,10 +29,9 @@ header{
 }
 header a{
     text-decoration: none;
-    display: inline-block;
     color: white;
-    Font-size: 10px:
-    padding: 15px;
+    font-size: 10px; 
+    padding: 0px 5px 0px 5px;
     
 }
 .intro{    
