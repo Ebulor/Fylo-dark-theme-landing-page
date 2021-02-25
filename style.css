@@ -32,8 +32,8 @@ header a{
     display: inline-block;
     color: white;
     Font-size: 10px:
-    padding-right: 20px;
-    padding-top: 5px;
+    padding: 5px;
+    
 }
 .intro{    
     display: flex;
